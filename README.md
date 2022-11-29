@@ -8,4 +8,4 @@
 
 ## Live website can be viewed here
 
-https://peter-kimanzi.github.io/parallax-scroll-animation/
+https://hell59.github.io/paralax-scroll-animation/
